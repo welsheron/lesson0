@@ -9,6 +9,6 @@ print(2*2+2==2*(2+2))
 print(a==b)
 # 4th program
 float(123.456)
-print(int(123.456*10)-1230)
+print(int(123.456*10)%10)
 
 
